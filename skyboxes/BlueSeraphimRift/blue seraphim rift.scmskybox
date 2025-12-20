@@ -1,0 +1,111 @@
+{
+    "Data": {
+        "Position": {
+            "x": 128.0,
+            "y": 0.0,
+            "z": 128.0
+        },
+        "Scale": 585.7907104492188,
+        "SubtractHeight": 1.2566369771957398,
+        "SubdivisionsAxis": 64,
+        "SubdivisionsHeight": 30,
+        "HorizonHeight": -20.0,
+        "ZenithHeight": 1000.0,
+        "HorizonColor": {
+            "r": 0.0923,
+            "g": 0.2881,
+            "b": 0.5981,
+            "a": 1.0
+        },
+        "ZenithColor": {
+            "r": 0.2421,
+            "g": 0.3977,
+            "b": 0.8137,
+            "a": 1.0
+        },
+        "DecalGlowMultiplier": 0,
+        "Albedo": "/maps/Test_Ice_Pit.v0001/env/decals/seraphimrift.dds",
+        "Glow": "/maps/Test_Ice_Pit.v0001/env/decals/riftglow.dds",
+        "Planets": [
+            {
+                "Position": {
+                    "x": 512.0,
+                    "y": 250.0,
+                    "z": -2000.0
+                },
+                "Rotation": 0.0,
+                "Scale": {
+                    "x": 1000.0,
+                    "y": 1000.0
+                },
+                "Uv": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 1.0,
+                    "w": 1.0
+                }
+            }
+        ],
+        "MidRgbColor": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 0
+        },
+        "CirrusMultiplier": 0.0,
+        "CirrusColor": {
+            "r": 0,
+            "g": 0,
+            "b": 0.5,
+            "a": 1
+        },
+        "CirrusTexture": "/textures/environment/cirrus000.dds",
+        "CirrusLayers": [
+            {
+                "frequency": {
+                    "x": 0.00009999999747378752,
+                    "y": 0.00009999999747378752
+                },
+                "Speed": 7.799999713897705,
+                "Direction": {
+                    "x": 0.43208569288253786,
+                    "y": -0.9018325209617615
+                }
+            },
+            {
+                "frequency": {
+                    "x": 0.0010108000133186579,
+                    "y": 0.0031888000667095186
+                },
+                "Speed": 1.2799999713897706,
+                "Direction": {
+                    "x": 1.0,
+                    "y": 0.0
+                }
+            },
+            {
+                "frequency": {
+                    "x": 0.0006445000180974603,
+                    "y": 0.0010108000133186579
+                },
+                "Speed": 0.0,
+                "Direction": {
+                    "x": 0.9499720931053162,
+                    "y": 0.3123348653316498
+                }
+            },
+            {
+                "frequency": {
+                    "x": 0.003367000026628375,
+                    "y": 0.005911299958825111
+                },
+                "Speed": 0.550000011920929,
+                "Direction": {
+                    "x": 0.9995598793029785,
+                    "y": 0.029666190966963769
+                }
+            }
+        ],
+        "Clouds7": 0.0
+    }
+}
